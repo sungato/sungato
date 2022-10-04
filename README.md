@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @sungato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 # 💫 About Me:
-I'm currently working on secure messenger.
 
+- 👋 Hi, I’m @sungato
+- 👀 I'm currently working on secure messenger.
+- 🌱 I’m currently learning Fintech.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sungato) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/user/TheSungatov) 
@@ -18,10 +14,10 @@ I'm currently working on secure messenger.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sungato&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sungato&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Important
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Lul
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
